@@ -1,4 +1,4 @@
 <template>
-  <h1 class="m-5">Welcome</h1>
+  <header-component></header-component>
 </template>
 <script setup></script>
