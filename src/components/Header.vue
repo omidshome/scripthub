@@ -1,6 +1,8 @@
 <template>
-  <img src="~@/assets/script-hub.png" alt="scrit hub" />
-  <p class="text-gray-200">The Artistry of Written Communication</p>
+  <div class="mt-5">
+    <img src="~@/assets/script-hub.png " alt="scrit hub" />
+    <p class="text-gray-200">The Artistry of Written Communication</p>
+  </div>
 </template>
 
 <style scoped>
